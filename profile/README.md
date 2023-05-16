@@ -1,14 +1,17 @@
-## HydroCouple
+# HydroCouple
+HydroCouple is a component-based model framework for modeling complex water systems from stormwater, combined-sewer sytems, small to large river, reservoir and lakes systems. It involve
 
-A Repository for the HydroCouple Component-Based Modeling Framework.
+## HydroCouple Software Development Stack
+* HydroCouple C++ interface definitions
+* HydroCouple Python Interface definitions
+* HydroCoupleSDK software developpment kit
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## HydroCouple Model Composition Stack
+* HydroCoupleComposer coupled model composition interface
+* HydroVis coupled model composition visualization interface
+## HydroCouple Model Components
+*  SWMMComponent
+*  CSHComponent
+*  RHEComponent
+*  CEQUALW2Component
+*  HTSComponent
