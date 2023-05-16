@@ -1,17 +1,2 @@
 # HydroCouple
-HydroCouple is a component-based model framework for modeling complex water systems from stormwater, combined-sewer sytems, small to large river, reservoir and lakes systems. It involve
-
-## HydroCouple Software Development Stack
-* HydroCouple C++ interface definitions
-* HydroCouple Python Interface definitions
-* HydroCoupleSDK software developpment kit
-
-## HydroCouple Model Composition Stack
-* HydroCoupleComposer coupled model composition interface
-* HydroVis coupled model composition visualization interface
-## HydroCouple Model Components
-*  SWMMComponent
-*  CSHComponent
-*  RHEComponent
-*  CEQUALW2Component
-*  HTSComponent
+HydroCouple is a component-based model framework for modeling complex water systems ranging from stormwater and combined-sewer sytems to large river, reservoir and lake systems. It is comprised of an open open interfacing standard that can be implemented by anyone for their own model. An SDK is provided to facilitate the model wrapping process. The HydroCoupleComposer graphical user interface facilitates interactive coupling of compliant models.
