@@ -1,2 +1,2 @@
-# HydroCouple
+# [HydroCouple](https://www.hydrocouple.org)
 The water systems that protect our communities are increasingly managed through models of rainfall, runoff, pipes, streams, and aquifers. HydroCouple provides the open interface definitions and data standards that let these models connect into a single, composable digital representation of the entire water cycle, from watersheds and aquifers to sewers, streams, and receiving waters, with Open-Source SWMM 6.0 (SWMM2D), a HydroCouple initiative, as its flagship engine. Because the whole stack speaks standard interfaces, it is native ground for artificial intelligence in modeling, operations, and control.
